@@ -1,0 +1,4 @@
+cortex M4 stm32f407zgt6
+arm 
+flash
+ram
